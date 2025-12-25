@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Genre, MBTI, LogEntry, Character, Relationship, SimulationLog, CreditEntry } from '../types';
+import { Genre, Character, Relationship, SimulationLog, CreditEntry } from '../types';
 import { getMovieScript } from '../constants';
 import { LightingOverlay } from './LightingOverlay';
 import { EndingCredits } from './EndingCredits';

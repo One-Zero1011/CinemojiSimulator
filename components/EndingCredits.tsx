@@ -1,6 +1,6 @@
 import React from 'react';
 import { Character, CreditEntry } from '../types';
-import { Monitor, RotateCcw } from 'lucide-react';
+import { Monitor } from 'lucide-react';
 
 interface EndingCreditsProps {
   characters: Character[];
