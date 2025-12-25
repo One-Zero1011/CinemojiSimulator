@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Setup } from './components/Setup';
 import { Theater } from './components/Theater';
-import { MBTI, Genre, Character, Relationship, CreditEntry } from './types';
+import { Genre, Character, Relationship, CreditEntry } from './types';
 
 function App() {
   const [step, setStep] = useState<'setup' | 'theater'>('setup');
