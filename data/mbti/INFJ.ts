@@ -1,0 +1,1 @@
+// Moved to data/mbti/INFJ/index.ts

@@ -1,0 +1,5 @@
+{
+  "name": "CineMoji Simulator",
+  "description": "캐릭터가 MBTI에 따라 영화를 관람하며 반응하는 시뮬레이션입니다. AI 없이 결정론적 스크립트로 작동합니다.",
+  "requestFramePermissions": []
+}
